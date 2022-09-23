@@ -1,0 +1,16 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(–…ïàùÿÿÿÿ
+t
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¦ïØÚ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(¸®»ˆ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¦™Ç€şÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(âŒĞ‹şÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'lombok.SneakyThrows'.(¨³üÖûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+Z
+java:S1128
+"?Remove this unused import 'java.util.concurrent.ThreadFactory'.(ã’Ÿºúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”‹“Éøÿÿÿÿ

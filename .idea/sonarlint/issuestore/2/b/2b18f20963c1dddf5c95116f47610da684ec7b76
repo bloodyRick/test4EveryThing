@@ -1,0 +1,77 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(œû¿Ø8«ïÏƒ¡0
+[
+java:S1854F">Remove this useless assignment to local variable "rowContent".(ı×ÃÆ8¯ïÏƒ¡0
+\
+java:S1854q":Remove this useless assignment to local variable "appkey".(ÜÓ°ıÿÿÿÿ8°ïÏƒ¡0
+R
+java:S1854t"6Remove this useless assignment to local variable "bu".(äë18°ïÏƒ¡0
+Z
+java:S1854µ"7Remove this useless assignment to local variable "zzz".(¸ˆÖ½ûÿÿÿÿ8©çš¢¢0
+U
+java:S1854´"7Remove this useless assignment to local variable "qqq".(‘»†Ö8Ëç¢¢¢0
+Z
+java:S1854³"7Remove this useless assignment to local variable "www".(‰Ãì¸úÿÿÿÿ8˜šî¡¢0
+U
+java:S1854²"7Remove this useless assignment to local variable "eee".(³ã…Â8˜šî¡¢0
+Z
+java:S1854±"7Remove this useless assignment to local variable "fff".(Â¢øıÿÿÿÿ8˜šî¡¢0
+8
+java:S3626w"Remove this redundant jump.(ÉŠ©ƒ8±ïÏƒ¡0
+c
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(ì¤¯Îıÿÿÿÿ8´ïÏƒ¡0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(á’Äˆşÿÿÿÿ8—ğÏƒ¡0
+L
+java:S1481F"/Remove this unused "rowContent" local variable.(ı×ÃÆ8˜ğÏƒ¡0
+]	java:S125G"<This block of commented-out lines of code should be removed.(¦à±•üÿÿÿÿ8˜ğÏƒ¡0
+c
+java:S1075c"ARefactor your code to get this URI from a customizable parameter.(š½™‚øÿÿÿÿ8šğÏƒ¡0
+]	java:S125^"<This block of commented-out lines of code should be removed.(Ó‰ä‘úÿÿÿÿ8šğÏƒ¡0
+M
+java:S1481q"+Remove this unused "appkey" local variable.(ÜÓ°ıÿÿÿÿ8œğÏƒ¡0
+I
+java:S1481r"'Remove this unused "bu" local variable.(Å‡Ñ¨şÿÿÿÿ8œğÏƒ¡0
+^	java:S125”"<This block of commented-out lines of code should be removed.(çŸÏˆÿÿÿÿÿ8ğÏƒ¡0
+X	java:S125°"<This block of commented-out lines of code should be removed.(Ö–T8«Ğ¨¢¢0
+K
+java:S1481±"(Remove this unused "fff" local variable.(Â¢øıÿÿÿÿ8¦¼î¡¢0
+F
+java:S1481²"(Remove this unused "eee" local variable.(³ã…Â8óÖï¡¢0
+K
+java:S1481³"(Remove this unused "www" local variable.(‰Ãì¸úÿÿÿÿ8•ßò¡¢0
+F
+java:S1481´"(Remove this unused "qqq" local variable.(‘»†Ö8êŠ›¢¢0
+K
+java:S1481µ"(Remove this unused "zzz" local variable.(¸ˆÖ½ûÿÿÿÿ8š´£¢¢0
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ø±ò8¡ğÏƒ¡0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8›´£¢¢0
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8›´£¢¢0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8›´£¢¢0
+z	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(ùİÚ¥üÿÿÿÿ8ñÏƒ¡0
+z	java:S135n"YReduce the total number of break and continue statements in this loop to use at most one.(Õ”½¤ùÿÿÿÿ8ñÏƒ¡0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÊ¬§şÿÿÿÿ8ñÏƒ¡0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø±€¶8ñÏƒ¡0
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–âõì8ñÏƒ¡0
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¸³æ8ñÏƒ¡0
+m	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¢ÎŸ8ñÏƒ¡0
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Èè´8ñÏƒ¡0
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·å‰¿8ñÏƒ¡0
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ç›ÿÿÿÿÿ8ñÏƒ¡0
+m	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¯°™8ñÏƒ¡0
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î°“’ÿÿÿÿÿ8ñÏƒ¡0
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·ÓŒÿÿÿÿÿ8ŸñÏƒ¡0
+n	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â÷¶€8ŸñÏƒ¡0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï†×òüÿÿÿÿ8ŸñÏƒ¡0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óº¦úÿÿÿÿ8µñÏƒ¡0
+n
+java:S2095e"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(æÎ€¬8ìøÏƒ¡0
+l
+java:S2095g"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ã§ üÿÿÿÿ8ìøÏƒ¡0
+n
+java:S2095'"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(¢ğÂè8ìøÏƒ¡0
+l
+java:S2095*"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(âÑãöøÿÿÿÿ8ìøÏƒ¡0

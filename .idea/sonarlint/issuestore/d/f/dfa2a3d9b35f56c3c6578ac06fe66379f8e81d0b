@@ -1,0 +1,8 @@
+
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8¥±Ï¨¢0
+H
+java:S1128"+Remove this unused import 'lombok.Builder'.(§’Ğß8¥±Ï¨¢0
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8¦±Ï¨¢0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ĞÊ…8œÅÉ¨¢0

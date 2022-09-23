@@ -1,0 +1,28 @@
+
+L
+java:S3740&"/Provide the parametrized type for this generic.(Îî™¯8ä´ƒøÄ/
+L
+java:S3740'"/Provide the parametrized type for this generic.(º¹ÌŸ8í£„øÄ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷éÈÉşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸”±Ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÎŸ¯şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ºÃ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¶µŞ¨üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(™°ÃÉ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(€ †€
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(œìƒøÿÿÿÿ8ßé„øÄ/
+[
+java:S1128"?Remove this unused import 'com.google.common.base.CharMatcher'.(»Óƒ-8ßé„øÄ/
+^
+java:S1128"ARemove this unused import 'com.google.common.base.Preconditions'.(¢šÀÿ8àé„øÄ/
+]
+java:S1128";Remove this unused import 'com.google.common.base.Strings'.(¬êÅ¡øÿÿÿÿ8àé„øÄ/
+F
+java:S1128
+")Remove this unused import 'java.io.File'.(†Ğ¥Å8àé„øÄ/
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8áé„øÄ/
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8áé„øÄ/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8áé„øÄ/

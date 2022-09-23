@@ -1,0 +1,6 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(Çù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”äÙóıÿÿÿÿ
+U
+java:S1128"3Remove this unused import 'JsonTest.RiskDefendReq'.(ê‹øÿÿÿÿ8Ş¼ÏÔ¬0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙÖÚàÿÿÿÿÿ

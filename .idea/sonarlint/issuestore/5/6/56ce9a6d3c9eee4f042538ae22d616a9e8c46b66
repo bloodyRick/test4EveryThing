@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïíõá8í’ïÌª0
+W	java:S125"<This block of commented-out lines of code should be removed.(ï³†o8ğ¦üÌª0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶ŸÇš8¦ñıÌª0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ã€ìÌª0
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ŒÀüÌª0
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äÖà¼
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı£Ä’

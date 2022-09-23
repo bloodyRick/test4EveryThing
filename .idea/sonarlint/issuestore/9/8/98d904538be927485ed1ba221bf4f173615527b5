@@ -1,0 +1,33 @@
+
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(”Û“«þÿÿÿÿ
+N
+java:S1854<"8Remove this useless assignment to local variable "date".(ÿØò¡
+n	java:S131,"YComplete cases by adding the missing enum constants or add a default case to this switch.(«Ðƒ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ƒÿ™ôÿÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ôÓ 
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÃê×úÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(‚ñ›Á
+s
+java:S3252:"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(¡¥€æþÿÿÿÿ
+O
+java:S1874:"4Remove this use of "HSSFDateUtil"; it is deprecated.(¡¥€æþÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ì•´óüÿÿÿÿ
+?
+java:S1481<")Remove this unused "date" local variable.(ÿØò¡
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Ÿûµ³þÿÿÿÿ
+I
+java:S1874A"3Remove this use of "setCellType"; it is deprecated.(öÄÄé
+N	java:S106F"9Replace this use of System.out or System.err by a logger.( Ží‡
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ÈÞ³”ýÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û“«þÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßø‚Å
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óžº¦úÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¹å¿°
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(•¯ô¬ÿÿÿÿÿ

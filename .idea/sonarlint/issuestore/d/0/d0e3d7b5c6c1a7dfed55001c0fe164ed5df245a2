@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(…ª¦Øùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â°ü”ÿÿÿÿÿ8­İç¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ“²î8–÷é¯0
+]	java:S125"<This block of commented-out lines of code should be removed.(ÜË¸ÿıÿÿÿÿ8«òç¯0
+^
+java:S1128"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ8Ííê¯0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ííê¯0
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯Ú¹¬úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ“É†
