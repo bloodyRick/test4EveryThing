@@ -1,0 +1,15 @@
+
+<
+java:S2440"!Remove this instantiation of "B".(µ¨Ñ¥ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çõ­¼
+K
+java:S2209"5Change this instance-reference to a static reference.(Çõ­¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚½õí
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÇ™‹ýÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ºàŽM
+T	java:S106"9Replace this use of System.out or System.err by a logger.(å×›68–þ³Å·0
+L
+java:S1128"7Remove this unused import 'JsonTest.PostCheckMafkaMsg'.(§æÕ~
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÊÇ™‹ýÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐáÐ

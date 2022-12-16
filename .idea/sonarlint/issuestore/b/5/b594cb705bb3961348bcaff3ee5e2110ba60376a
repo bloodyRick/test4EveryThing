@@ -1,0 +1,8 @@
+
+j
+java:S1104
+"MMake a a static final constant or non-public and provide accessors if needed.(‚ÈÂÉ8ª£¸ÀÁ0
+o
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.(êòÍŒúÿÿÿÿ8«£¸ÀÁ0
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬½¸¦8«£¸ÀÁ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬—“ûÿÿÿÿ
