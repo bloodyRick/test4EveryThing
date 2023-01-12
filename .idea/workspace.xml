@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="303f4121-c71e-4b0a-9e3b-70e320be00cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ClassType/TESTT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ClassType/test4ClassType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Consumer/ConsumerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Consumer/TwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Integer/test4IntegerEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonUtils/TypeReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonUtils/test4Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonUtils/test4TypeRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testSubString/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testSubString/testJSONParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testToString/test4ToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testToString/testInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testToString/testToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testToString/testToStringList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test4Consumer/test4Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4Consumer/test4Consumer.java" afterDir="false" />
-    </list>
+    <list default="true" id="303f4121-c71e-4b0a-9e3b-70e320be00cc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,6 +229,7 @@
       <workItem from="1670399852664" duration="36000" />
       <workItem from="1670481431623" duration="17000" />
       <workItem from="1671017045894" duration="419000" />
+      <workItem from="1671207394947" duration="132000" />
     </task>
     <servers />
   </component>
