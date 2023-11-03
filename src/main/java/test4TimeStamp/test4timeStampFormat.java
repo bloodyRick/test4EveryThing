@@ -10,5 +10,9 @@ public class test4timeStampFormat {
         long timeStamp = System.currentTimeMillis();
         String aa = new SimpleDateFormat("yyyy-MM-dd HH:mm").format(timeStamp);
         System.out.println(aa);
+
+        Long MINUTE = 60 * 1000L;
+        System.out.println(30 * MINUTE);
+        System.out.println(MINUTE * 60 * 24);
     }
 }

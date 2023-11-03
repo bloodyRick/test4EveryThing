@@ -1,3 +1,4 @@
 
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(≥≤Ûπ˚ˇˇˇˇ
->	java:S108")Either remove or fill this block of code.(ç€≠®
+V	java:S125	"<This block of commented-out lines of code should be removed.(à‰ÙΩ˚ˇˇˇˇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(≈≠À›˙ˇˇˇˇ
+>	java:S108")Either remove or fill this block of code.(ç€≠®

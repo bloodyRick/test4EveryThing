@@ -67,11 +67,11 @@ s	java:S117"QRename this local variable to match the regular expression '^[a
 n	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â÷¶€8ŸñÏƒ¡0
 n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï†×òüÿÿÿÿ8ŸñÏƒ¡0
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óº¦úÿÿÿÿ8µñÏƒ¡0
-n
-java:S2095e"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(æÎ€¬8ìøÏƒ¡0
 l
 java:S2095g"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ã§ üÿÿÿÿ8ìøÏƒ¡0
-n
-java:S2095'"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(¢ğÂè8ìøÏƒ¡0
 l
 java:S2095*"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(âÑãöøÿÿÿÿ8ìøÏƒ¡0
+n
+java:S2095e"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(æÎ€¬8ìøÏƒ¡0
+n
+java:S2095'"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(¢ğÂè8ìøÏƒ¡0

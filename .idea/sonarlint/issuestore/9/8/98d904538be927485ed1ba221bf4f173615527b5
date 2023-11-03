@@ -1,33 +1,33 @@
 
 \
 java:S1075"ARefactor your code to get this URI from a customizable parameter.(”Û“«þÿÿÿÿ
-N
-java:S1854<"8Remove this useless assignment to local variable "date".(ÿØò¡
-n	java:S131,"YComplete cases by adding the missing enum constants or add a default case to this switch.(«Ðƒ
-S	java:S106."9Replace this use of System.out or System.err by a logger.(ƒÿ™ôÿÿÿÿÿ
-N	java:S1062"9Replace this use of System.out or System.err by a logger.(ôÓ 
-S	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÃê×úÿÿÿÿ
-N	java:S1069"9Replace this use of System.out or System.err by a logger.(‚ñ›Á
-s
-java:S3252:"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(¡¥€æþÿÿÿÿ
-O
-java:S1874:"4Remove this use of "HSSFDateUtil"; it is deprecated.(¡¥€æþÿÿÿÿ
-S	java:S106;"9Replace this use of System.out or System.err by a logger.(ì•´óüÿÿÿÿ
-?
-java:S1481<")Remove this unused "date" local variable.(ÿØò¡
-S	java:S106@"9Replace this use of System.out or System.err by a logger.(Ÿûµ³þÿÿÿÿ
-I
-java:S1874A"3Remove this use of "setCellType"; it is deprecated.(öÄÄé
-N	java:S106F"9Replace this use of System.out or System.err by a logger.( Ží‡
-S	java:S106I"9Replace this use of System.out or System.err by a logger.(ÈÞ³”ýÿÿÿÿ
 U
-java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
-J
-java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û“«þÿÿÿÿ
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßø‚Å
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óžº¦úÿÿÿÿ
-`
-java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¹å¿°
-h
-java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(•¯ô¬ÿÿÿÿÿ
+java:S1854<"8Remove this useless assignment to local variable "date".(ÿØò¡8ˆÅê­â0
+u	java:S131,"YComplete cases by adding the missing enum constants or add a default case to this switch.(«Ðƒ8ŽÅê­â0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ƒÿ™ôÿÿÿÿÿ8Åê­â0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ôÓ 8Åê­â0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÃê×úÿÿÿÿ8Åê­â0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(‚ñ›Á8Åê­â0
+z
+java:S3252:"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(¡¥€æþÿÿÿÿ8‘Åê­â0
+V
+java:S1874:"4Remove this use of "HSSFDateUtil"; it is deprecated.(¡¥€æþÿÿÿÿ8’Åê­â0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ì•´óüÿÿÿÿ8“Åê­â0
+F
+java:S1481<")Remove this unused "date" local variable.(ÿØò¡8“Åê­â0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ÿûµ³þÿÿÿÿ8“Åê­â0
+P
+java:S1874A"3Remove this use of "setCellType"; it is deprecated.(öÄÄé8”Åê­â0
+U	java:S106F"9Replace this use of System.out or System.err by a logger.( Ží‡8”Åê­â0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ÈÞ³”ýÿÿÿÿ8•Åê­â0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8•Åê­â0
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8•Åê­â0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û“«þÿÿÿÿ8–Åê­â0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßø‚Å8–Åê­â0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óžº¦úÿÿÿÿ8—Åê­â0
+g
+java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¹å¿°8¢Åê­â0
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(•¯ô¬ÿÿÿÿÿ8£Åê­â0

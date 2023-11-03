@@ -1,10 +1,12 @@
 package test4NotEmpty;
 
+import com.google.common.collect.Lists;
 import lombok.Data;
 
 import javax.validation.Valid;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
+import java.util.List;
 import java.util.Objects;
 
 /**
@@ -19,6 +21,11 @@ public class test4AnnotationNotEmpty {
         if (Objects.isNull(ee)) {
             System.out.println("ahhs");
         }
+
+        System.out.println(resp);
+        List<McmBusyPeriodResp> resps = Lists.newArrayList();
+        resps.add(resp);
+        System.out.println(resps);
     }
 
 
