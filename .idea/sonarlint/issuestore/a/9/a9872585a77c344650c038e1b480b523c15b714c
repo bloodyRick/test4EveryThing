@@ -1,0 +1,10 @@
+
+O
+java:S18542"9Remove this useless assignment to local variable "total".(²ž×³
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(¯Çëœ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Œ¾ÉÑ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¹–«íúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò•æàþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¸âßùÿÿÿÿ

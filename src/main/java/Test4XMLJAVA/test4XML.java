@@ -21,7 +21,7 @@ public class test4XML {
     public static void main(String[] args) throws IOException {
         String PATH = "/Volumes/文枢工作空间/";
         //获取文件流
-        FileInputStream inputStream = new FileInputStream(PATH + "金融负责人.xlsx");
+        FileInputStream inputStream = new FileInputStream(PATH + "用户自定义压测数据.xlsx");
 
         //1.创建工作簿,使用excel能操作的这边都看看操作
         Workbook workbook = new HSSFWorkbook(inputStream);

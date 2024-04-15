@@ -1,0 +1,15 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "dd".(®û´“úÿÿÿÿ8±˜âÍ0
+S
+java:S1854"8Remove this useless assignment to local variable "sssa".(½éÎÏşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+D
+java:S1481")Remove this unused "sssa" local variable.(½éÎÏşÿÿÿÿ
+I
+java:S1481"'Remove this unused "dd" local variable.(®û´“úÿÿÿÿ8³˜âÍ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8ºüÜÜÎ0
+X	java:S125"<This block of commented-out lines of code should be removed.(Öıö8³˜âÍ0
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á¿Â„úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬—“ûÿÿÿÿ

@@ -1,0 +1,7 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(†£šÀúÿÿÿÿ8ç•é–ğ0
+X	java:S125"<This block of commented-out lines of code should be removed.(ÃÙ©ş8ßÉé–ğ0
+]	java:S125"<This block of commented-out lines of code should be removed.(àÏç½øÿÿÿÿ8±ñè–ğ0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8í•é–ğ0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÇ¿o

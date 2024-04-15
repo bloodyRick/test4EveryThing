@@ -1,0 +1,20 @@
+
+M
+java:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦·ÚÈûÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(İ²¹äıÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(İ²¹äıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ñŒøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÍÍ€
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(Å£ğ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×±ªııÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¾Êùøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸ËÛüûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öı÷Š

@@ -1,0 +1,10 @@
+
+[
+java:S1854"ERemove this useless assignment to local variable "plantsByLifeCycle".(÷‘«†
+C
+java:S1481"(Remove this unused "ddd" local variable.(±ò’åÿÿÿÿÿ
+L
+java:S1481"6Remove this unused "plantsByLifeCycle" local variable.(÷‘«†
+O
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êŠÅúÿÿÿÿ

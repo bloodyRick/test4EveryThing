@@ -1,0 +1,13 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¤ì ¦8ê¾â–ð0
+]	java:S125J"<This block of commented-out lines of code should be removed.(€çÅÈýÿÿÿÿ8ŠÊä–ð0
+W	java:S125["<This block of commented-out lines of code should be removed.(†Œê8Ûå–ð0
+H
+java:S1168p"+Return an empty collection instead of null.(¥¹ï8æ ç–ð0
+X	java:S125n"<This block of commented-out lines of code should be removed.(¦ËþÜ8Ì¨å–ð0
+e
+java:S1128"CRemove this unused import 'com.dianping.lion.client.util.LogUtils'.(™ÇôÉýÿÿÿÿ8Ì¨å–ð0
+u
+java:S1128"SRemove this unused import 'com.meituan.firefly.boot.common.exception.BizException'.(ƒÌ÷½øÿÿÿÿ8Í¨å–ð0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÇ¿o

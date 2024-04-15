@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(·÷îL
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤‚£¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚäÃ‡
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇéÓ°8‘ªæ0
+{
+java:S2142""^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¡µæ0
+f
+java:S1128"KRemove this unused import 'org.apache.commons.collections.CollectionUtils'.(’õĞğùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›Õˆ‰üÿÿÿÿ

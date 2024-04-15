@@ -2,79 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="303f4121-c71e-4b0a-9e3b-70e320be00cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4AddAll/Test4AddAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4AddAll/TestJion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4AddAll/testGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Json/GroupPublishNotifyRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Json/Host.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Json/HostBrief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Json/jsonUtilsTEst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Json/rqaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4LinkedBlockingQConcurrent/Test4Concurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4LinkedBlockingQConcurrent/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Runnbale/TaskTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4Runnbale/Test4Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4SPI/DataStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4SPI/MysqlStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4SPI/RedisStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4SPI/SpiDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4TreeMap/test4TreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test4XMLJAVA/readJinrongAppkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/function/generatorTsSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/function/testList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/function/testPrintList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guavaListTeset/test4addAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guavaListTeset/testListRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/MathUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/MathYsf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/Normalization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/NormalizeManMade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/Test4Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4Chazhi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4DTW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4Gaussian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4JScience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4KDE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4Normalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4SBD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Enum/TimeSeriesDataProcessEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Enum/test4EnumValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4EnumMap/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4EnumMap/Test4EnumMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Integer/test4Double.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Integer/test4Negtive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonTest/ContinousDetectMsg1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonTest/ContinuousDetectMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonTest/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4JsonTest/test4Json.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Long/test4Long.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4NewInterface/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4NewInterface/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Proxy/Proxytt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Proxy/SubInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Proxy/TestProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Proxy/UnProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4Split/test4Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4TimeConvert/Test4DateToLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4implementsIterator/Test4Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4implementsIterator/Test4It.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/Test4SPI.DataStorage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b18f20963c1dddf5c95116f47610da684ec7b76" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b18f20963c1dddf5c95116f47610da684ec7b76" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53c51c4a705be1099d97a7eb457101d31b5848f8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53c51c4a705be1099d97a7eb457101d31b5848f8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/864b57442cd7d6596d4437bd9fbc44c86d7d35c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/864b57442cd7d6596d4437bd9fbc44c86d7d35c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceIfElseWithLamda/BranchHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceIfElseWithLamda/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceIfElseWithLamda/ThrowExceptionFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceIfElseWithLamda/Vutils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StartApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test4ExGet/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test4ExGet/Test4Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test4NettyThread/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test4XMLJAVA/ReadCustomerDefineStressData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98d904538be927485ed1ba221bf4f173615527b5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98d904538be927485ed1ba221bf4f173615527b5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7dde6878b88ec1e25bb40067d37c89a95a58b2e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7dde6878b88ec1e25bb40067d37c89a95a58b2e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4949b67a5d869bddf97acecb9803bdf82df5b2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d108192d5dbaf8965808d149cd13da2d087b0f64" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4AnnotationNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4AnnotationNotEmpty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test4TimeStamp/test4timeStampFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4TimeStamp/test4timeStampFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestSplit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4AnnotationNotEmpty$McmBusyPeriodResp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4AnnotationNotEmpty$McmBusyPeriodResp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4AnnotationNotEmpty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4AnnotationNotEmpty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test4TimeStamp/test4timeStampFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test4TimeStamp/test4timeStampFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test4XMLJAVA/test4XML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test4XMLJAVA/test4XML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GuavaCacheTest/test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GuavaCacheTest/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/AbstractBaseResp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/CreateGrayReleasePhysicReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/JsonTe$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/JsonTe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/JsonUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/PostCheckMafkaMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/RiskDefendReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/RiskDefendResp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/jsonparsetestcreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonTest/testMafkaMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SetCollection/test4SetRemoveALl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4AbsOmpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4AbsOmpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4Abstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4XMLJAVA/test4XML$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4XMLJAVA/test4XML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4XMLJAVA/xslx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4convertUtils/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4convertUtils/Resp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4convertUtils/convert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestSplit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestThrowable/TestThrowable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThriftDTOGenerator/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThriftDTOGenerator/testStringBlank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/PredicateWy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/SelfFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/TestConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/getNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/removeNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/rumen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/test4ParallalStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/test4containsAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/function/test4toString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4ClassType/TESTT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4ClassType/test4ClassType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4Consumer/ConsumerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4Consumer/TwoNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4Consumer/test4Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4ContinueCatch/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4ContinueCatch/testNoneList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4IntEqual/test4IntEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4Integer/test4IntegerEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4JsonUtils/TypeReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4JsonUtils/test4Abstract$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4JsonUtils/test4Abstract$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4JsonUtils/test4Abstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4JsonUtils/test4TypeRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4AnnotationNotEmpty$McmBusyPeriodResp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4AnnotationNotEmpty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4BeanUtils$Approval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4BeanUtils$InitiateApprovalReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4BeanUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4EnumName$AuditState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4EnumName$MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4EnumName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4MisApprovalStatus$MisApprovalStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4NotEmpty/test4MisApprovalStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4Time/test4timeStamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4TimeStamp/test4timeStampFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4flatmap/test4AuditChainNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4javaproblem/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4staticExtends/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4staticExtends/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4staticExtends/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testCountDownLatch/test4ThreadClassyinyong$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testCountDownLatch/test4ThreadClassyinyong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testCountDownLatch/test4countlatchDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testEd/TestEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testSubString/JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testSubString/test4SubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testSubString/testJSONParse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testSubString/testJSONParse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testToString/test4ToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testToString/testInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testToString/testToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testToString/testToStringList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/AbstractSignReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/GenerateSignAndThriftParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/HandMadeThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Ia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Ib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/JoinerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Req.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/SpilterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Test4Function$Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Test4Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Test4In.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Test4Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Test4JsonUtils$ZoneSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Test4JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/ZoneAddReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/ZoneInfoReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/test4Integer.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +161,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -142,13 +188,13 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testPrintList">
-    <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test4Proxy.TestProxy" />
-      <module name="Test4GuavaLearning" />
+  <component name="RunManager" selected="Spring Boot.StartApp">
+    <configuration name="ReadCustomerDefineStressData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4XMLJAVA.ReadCustomerDefineStressData" />
+      <module name="Test4Chaos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test4Proxy.*" />
+          <option name="PATTERN" value="Test4XMLJAVA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generatorTsSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.generatorTsSeries" />
-      <module name="Test4GuavaLearning" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4ExGet.Test" />
+      <module name="Test4Chaos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function.*" />
+          <option name="PATTERN" value="Test4ExGet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test4Split.test4Split" />
-      <module name="Test4GuavaLearning" />
+    <configuration name="Test4Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4ExGet.Test4Set" />
+      <module name="Test4Chaos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test4Split.*" />
+          <option name="PATTERN" value="Test4ExGet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,48 +228,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.testList" />
-      <module name="Test4GuavaLearning" />
+    <configuration name="TestInterface.isTrue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test4Chaos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function.*" />
+          <option name="PATTERN" value="ReplaceIfElseWithLamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ReplaceIfElseWithLamda" />
+      <option name="MAIN_CLASS_NAME" value="ReplaceIfElseWithLamda.TestInterface" />
+      <option name="METHOD_NAME" value="isTrue1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testPrintList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.testPrintList" />
-      <module name="Test4GuavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="StartApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Test4Chaos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="StartApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test4Split" />
-      <item itemvalue="Application.TestProxy" />
-      <item itemvalue="Application.testList" />
-      <item itemvalue="Application.generatorTsSeries" />
-      <item itemvalue="Application.testPrintList" />
+      <item itemvalue="Application.ReadCustomerDefineStressData" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test4Set" />
+      <item itemvalue="JUnit.TestInterface.isTrue1" />
+      <item itemvalue="Spring Boot.StartApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testPrintList" />
-        <item itemvalue="Application.generatorTsSeries" />
-        <item itemvalue="Application.testList" />
-        <item itemvalue="Application.TestProxy" />
-        <item itemvalue="Application.test4Split" />
+        <item itemvalue="Spring Boot.StartApp" />
+        <item itemvalue="Application.Test4Set" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ReadCustomerDefineStressData" />
+        <item itemvalue="JUnit.TestInterface.isTrue1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -373,6 +419,19 @@
       <workItem from="1683879545251" duration="64000" />
       <workItem from="1684827278396" duration="573000" />
       <workItem from="1684845473964" duration="26000" />
+      <workItem from="1699018432193" duration="2631000" />
+      <workItem from="1701168012619" duration="3185000" />
+      <workItem from="1701242595154" duration="471000" />
+      <workItem from="1701246709253" duration="1105000" />
+      <workItem from="1701535164036" duration="2998000" />
+      <workItem from="1703042200306" duration="4423000" />
+      <workItem from="1703058131086" duration="4190000" />
+      <workItem from="1703063393742" duration="3554000" />
+      <workItem from="1703574501986" duration="41000" />
+      <workItem from="1706770957143" duration="101000" />
+      <workItem from="1707206704566" duration="68000" />
+      <workItem from="1711131819313" duration="1062000" />
+      <workItem from="1713192270584" duration="42000" />
     </task>
     <servers />
   </component>
@@ -380,292 +439,354 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="214" key="#Auto_Import" timestamp="1681902130536">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state x="722" y="-669" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1703061542548">
+      <screen x="-76" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="496" y="214" key="#Auto_Import/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1681902130536" />
-    <state x="496" y="214" key="#Project_Structure" timestamp="1677083897502">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state x="722" y="-669" key="#com.intellij.debugger.actions.ViewTextAction/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703061542548" />
+    <state x="867" y="-762" key="#xdebugger.evaluate" timestamp="1703061480686">
+      <screen x="-76" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="496" y="214" key="#Project_Structure/0.25.1792.1054@0.25.1792.1054" timestamp="1677083897502" />
-    <state x="760" y="-815" key="#com.intellij.ide.util.MemberChooser" timestamp="1681787167460">
-      <screen x="0" y="-1055" width="1920" height="1055" />
+    <state x="867" y="-762" key="#xdebugger.evaluate/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703061480686" />
+    <state x="675" y="259" key="#xdebugger.evaluate/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703052779124" />
+    <state width="1750" height="254" key="GridCell.Tab.0.bottom" timestamp="1711132938092">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state x="709" y="265" key="#com.intellij.ide.util.MemberChooser/-325.-1415.2560.1415/0.25.1792.1054@0.25.1792.1054" timestamp="1677675330088" />
-    <state x="760" y="-815" key="#com.intellij.ide.util.MemberChooser/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681787167460" />
-    <state x="709" y="265" key="#com.intellij.ide.util.MemberChooser/0.25.1792.1054@0.25.1792.1054" timestamp="1679414010145" />
-    <state x="1154" y="-719" key="#xdebugger.evaluate" timestamp="1681799212196">
-      <screen x="0" y="-1055" width="1920" height="1055" />
+    <state width="1750" height="254" key="GridCell.Tab.0.bottom/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938092" />
+    <state width="1878" height="256" key="GridCell.Tab.0.bottom/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
+    <state width="1750" height="383" key="GridCell.Tab.0.bottom/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767344" />
+    <state width="1750" height="254" key="GridCell.Tab.0.center" timestamp="1711132938091">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state x="1154" y="-719" key="#xdebugger.evaluate/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681799212196" />
-    <state x="1077" y="361" key="#xdebugger.evaluate/0.25.1792.1054@0.25.1792.1054" timestamp="1679413863594" />
-    <state width="1750" height="387" key="GridCell.Tab.0.bottom" timestamp="1684845497791">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.0.center/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938091" />
+    <state width="1878" height="256" key="GridCell.Tab.0.center/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
+    <state width="1750" height="383" key="GridCell.Tab.0.center/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767344" />
+    <state width="1750" height="254" key="GridCell.Tab.0.left" timestamp="1711132938090">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1750" height="440" key="GridCell.Tab.0.bottom/-325.-1415.2560.1415/0.25.1792.1053@0.25.1792.1053" timestamp="1676463650096" />
-    <state width="2518" height="550" key="GridCell.Tab.0.bottom/-325.-1415.2560.1415/0.25.1792.1054@-325.-1415.2560.1415" timestamp="1678188913914" />
-    <state width="1750" height="388" key="GridCell.Tab.0.bottom/-325.-1415.2560.1415/0.25.1792.1054@0.25.1792.1054" timestamp="1679472112882" />
-    <state width="1750" height="441" key="GridCell.Tab.0.bottom/-325.-1415.2560.1415/0.25.1792.1056@0.25.1792.1056" timestamp="1676879435607" />
-    <state width="1750" height="387" key="GridCell.Tab.0.bottom/-76.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1684845497791" />
-    <state width="1878" height="392" key="GridCell.Tab.0.bottom/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887979" />
-    <state width="1750" height="387" key="GridCell.Tab.0.bottom/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1683879608754" />
-    <state width="1750" height="387" key="GridCell.Tab.0.bottom/0.25.1792.1054@0.25.1792.1054" timestamp="1681869982685" />
-    <state width="1750" height="387" key="GridCell.Tab.0.center" timestamp="1684845497790">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.0.left/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938090" />
+    <state width="1878" height="256" key="GridCell.Tab.0.left/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
+    <state width="1750" height="383" key="GridCell.Tab.0.left/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767343" />
+    <state width="1750" height="254" key="GridCell.Tab.0.right" timestamp="1711132938092">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1750" height="440" key="GridCell.Tab.0.center/-325.-1415.2560.1415/0.25.1792.1053@0.25.1792.1053" timestamp="1676463650095" />
-    <state width="2518" height="550" key="GridCell.Tab.0.center/-325.-1415.2560.1415/0.25.1792.1054@-325.-1415.2560.1415" timestamp="1678188913913" />
-    <state width="1750" height="388" key="GridCell.Tab.0.center/-325.-1415.2560.1415/0.25.1792.1054@0.25.1792.1054" timestamp="1679472112880" />
-    <state width="1750" height="441" key="GridCell.Tab.0.center/-325.-1415.2560.1415/0.25.1792.1056@0.25.1792.1056" timestamp="1676879435607" />
-    <state width="1750" height="387" key="GridCell.Tab.0.center/-76.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1684845497790" />
-    <state width="1878" height="392" key="GridCell.Tab.0.center/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887977" />
-    <state width="1750" height="387" key="GridCell.Tab.0.center/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1683879608753" />
-    <state width="1750" height="387" key="GridCell.Tab.0.center/0.25.1792.1054@0.25.1792.1054" timestamp="1681869982684" />
-    <state width="1750" height="387" key="GridCell.Tab.0.left" timestamp="1684845497790">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.0.right/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938092" />
+    <state width="1878" height="256" key="GridCell.Tab.0.right/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
+    <state width="1750" height="383" key="GridCell.Tab.0.right/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767344" />
+    <state width="1750" height="254" key="GridCell.Tab.1.bottom" timestamp="1711132938093">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1750" height="440" key="GridCell.Tab.0.left/-325.-1415.2560.1415/0.25.1792.1053@0.25.1792.1053" timestamp="1676463650094" />
-    <state width="2518" height="550" key="GridCell.Tab.0.left/-325.-1415.2560.1415/0.25.1792.1054@-325.-1415.2560.1415" timestamp="1678188913911" />
-    <state width="1750" height="388" key="GridCell.Tab.0.left/-325.-1415.2560.1415/0.25.1792.1054@0.25.1792.1054" timestamp="1679472112880" />
-    <state width="1750" height="441" key="GridCell.Tab.0.left/-325.-1415.2560.1415/0.25.1792.1056@0.25.1792.1056" timestamp="1676879435606" />
-    <state width="1750" height="387" key="GridCell.Tab.0.left/-76.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1684845497790" />
-    <state width="1878" height="392" key="GridCell.Tab.0.left/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887976" />
-    <state width="1750" height="387" key="GridCell.Tab.0.left/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1683879608753" />
-    <state width="1750" height="387" key="GridCell.Tab.0.left/0.25.1792.1054@0.25.1792.1054" timestamp="1681869982684" />
-    <state width="1750" height="387" key="GridCell.Tab.0.right" timestamp="1684845497790">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.1.bottom/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
+    <state width="1878" height="256" key="GridCell.Tab.1.bottom/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
+    <state width="1750" height="388" key="GridCell.Tab.1.bottom/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168133" />
+    <state width="1750" height="254" key="GridCell.Tab.1.center" timestamp="1711132938093">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1750" height="440" key="GridCell.Tab.0.right/-325.-1415.2560.1415/0.25.1792.1053@0.25.1792.1053" timestamp="1676463650095" />
-    <state width="2518" height="550" key="GridCell.Tab.0.right/-325.-1415.2560.1415/0.25.1792.1054@-325.-1415.2560.1415" timestamp="1678188913913" />
-    <state width="1750" height="388" key="GridCell.Tab.0.right/-325.-1415.2560.1415/0.25.1792.1054@0.25.1792.1054" timestamp="1679472112881" />
-    <state width="1750" height="441" key="GridCell.Tab.0.right/-325.-1415.2560.1415/0.25.1792.1056@0.25.1792.1056" timestamp="1676879435607" />
-    <state width="1750" height="387" key="GridCell.Tab.0.right/-76.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1684845497790" />
-    <state width="1878" height="392" key="GridCell.Tab.0.right/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887978" />
-    <state width="1750" height="387" key="GridCell.Tab.0.right/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1683879608754" />
-    <state width="1750" height="387" key="GridCell.Tab.0.right/0.25.1792.1054@0.25.1792.1054" timestamp="1681869982685" />
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1681902194357">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.1.center/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
+    <state width="1878" height="256" key="GridCell.Tab.1.center/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
+    <state width="1750" height="388" key="GridCell.Tab.1.center/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168132" />
+    <state width="1750" height="254" key="GridCell.Tab.1.left" timestamp="1711132938093">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1878" height="392" key="GridCell.Tab.1.bottom/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887981" />
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1681902194357" />
-    <state width="1750" height="463" key="GridCell.Tab.1.bottom/0.25.1792.1054@0.25.1792.1054" timestamp="1679413875328" />
-    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1681902194357">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.1.left/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
+    <state width="1878" height="256" key="GridCell.Tab.1.left/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
+    <state width="1750" height="388" key="GridCell.Tab.1.left/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168131" />
+    <state width="1750" height="254" key="GridCell.Tab.1.right" timestamp="1711132938093">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1878" height="392" key="GridCell.Tab.1.center/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887980" />
-    <state width="1750" height="391" key="GridCell.Tab.1.center/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1681902194357" />
-    <state width="1750" height="463" key="GridCell.Tab.1.center/0.25.1792.1054@0.25.1792.1054" timestamp="1679413875327" />
-    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1681902194356">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.1.right/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
+    <state width="1878" height="256" key="GridCell.Tab.1.right/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
+    <state width="1750" height="388" key="GridCell.Tab.1.right/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168132" />
+    <state width="1750" height="254" key="GridCell.Tab.2.bottom" timestamp="1711132938095">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1878" height="392" key="GridCell.Tab.1.left/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887979" />
-    <state width="1750" height="391" key="GridCell.Tab.1.left/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1681902194356" />
-    <state width="1750" height="463" key="GridCell.Tab.1.left/0.25.1792.1054@0.25.1792.1054" timestamp="1679413875327" />
-    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1681902194357">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.2.bottom/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938095" />
+    <state width="1750" height="254" key="GridCell.Tab.2.center" timestamp="1711132938094">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="1878" height="392" key="GridCell.Tab.1.right/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681802887981" />
-    <state width="1750" height="391" key="GridCell.Tab.1.right/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1681902194357" />
-    <state width="1750" height="463" key="GridCell.Tab.1.right/0.25.1792.1054@0.25.1792.1054" timestamp="1679413875328" />
-    <state width="596" height="688" key="SwitcherDM" timestamp="1681800278689">
-      <screen x="0" y="-1055" width="1920" height="1055" />
+    <state width="1750" height="254" key="GridCell.Tab.2.center/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938094" />
+    <state width="1750" height="254" key="GridCell.Tab.2.left" timestamp="1711132938094">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state width="596" height="688" key="SwitcherDM/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681800278689" />
-    <state width="556" height="687" key="SwitcherDM/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1680591379829" />
-    <state x="559" y="310" width="714" height="488" key="find.popup" timestamp="1683127770309">
-      <screen x="0" y="25" width="1792" height="1054" />
+    <state width="1750" height="254" key="GridCell.Tab.2.left/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938094" />
+    <state width="1750" height="254" key="GridCell.Tab.2.right" timestamp="1711132938094">
+      <screen x="0" y="25" width="1792" height="1049" />
     </state>
-    <state x="559" y="310" width="714" height="487" key="find.popup/-325.-1415.2560.1415/0.25.1792.1054@0.25.1792.1054" timestamp="1679470423476" />
-    <state x="599" y="-770" width="765" height="488" key="find.popup/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681788524706" />
-    <state x="559" y="310" width="714" height="488" key="find.popup/0.-1055.1920.1055/0.25.1792.1054@0.25.1792.1054" timestamp="1681904555752" />
-    <state x="559" y="310" width="714" height="488" key="find.popup/0.25.1792.1054@0.25.1792.1054" timestamp="1683127770309" />
-    <state x="601" y="-881" width="718" height="678" key="search.everywhere.popup" timestamp="1681798816859">
-      <screen x="0" y="-1055" width="1920" height="1055" />
+    <state width="1750" height="254" key="GridCell.Tab.2.right/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938094" />
+    <state width="622" height="656" key="SwitcherDM" timestamp="1703074961394">
+      <screen x="-76" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="601" y="-881" width="718" height="678" key="search.everywhere.popup/0.-1055.1920.1055/0.25.1792.1054@0.-1055.1920.1055" timestamp="1681798816859" />
+    <state width="622" height="656" key="SwitcherDM/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703074961394" />
+    <state x="441" y="290" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1703054161402">
+      <screen x="0" y="25" width="1792" height="1049" />
+    </state>
+    <state x="441" y="290" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054161402" />
+    <state x="581" y="307" width="674" height="486" key="find.popup" timestamp="1711132855356">
+      <screen x="0" y="25" width="1792" height="1049" />
+    </state>
+    <state x="581" y="307" width="674" height="486" key="find.popup/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132855356" />
+    <state x="547" y="-771" width="674" height="486" key="find.popup/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1706771056078" />
+    <state x="549" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1703075610716">
+      <screen x="-76" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="549" y="-821" width="670" height="676" key="search.everywhere.popup/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703075610716" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/function/SelfFunction.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JsonTest/JsonUtilsTest.java</url>
           <line>25</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JsonTest/JsonUtilsTest.java</url>
           <line>24</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4convertUtils/convert.java</url>
           <line>12</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4convertUtils/convert.java</url>
           <line>24</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4convertUtils/convert.java</url>
           <line>30</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4convertUtils/convert.java</url>
           <line>28</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ThriftDTOGenerator/Generator.java</url>
           <line>65</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4XMLJAVA/test4XML.java</url>
           <line>26</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4XMLJAVA/xslx.java</url>
           <line>184</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JsonTest/testMafkaMsg.java</url>
           <line>16</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/function/removeNull.java</url>
           <line>18</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SetCollection/test4SetRemoveALl.java</url>
           <line>22</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java</url>
           <line>33</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java</url>
           <line>30</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java</url>
           <line>28</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/TestThrowable/TestThrowable.java</url>
           <line>15</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/TestThrowable/TestThrowable.java</url>
           <line>16</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4NotEmpty/test4MisApprovalStatus.java</url>
           <line>12</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4flatmap/test4AuditChainNode.java</url>
           <line>21</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java</url>
           <line>63</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4Consumer/test4Consumer.java</url>
           <line>10</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4Chazhi.java</url>
           <line>18</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/test4Gaussian.java</url>
           <line>36</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test4ApacheCommonsMath/NormalizeManMade.java</url>
           <line>23</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4XMLJAVA/readJinrongAppkey.java</url>
           <line>114</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4XMLJAVA/readJinrongAppkey.java</url>
           <line>110</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4XMLJAVA/readJinrongAppkey.java</url>
           <line>130</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4SPI/SpiDemo.java</url>
           <line>11</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/TestSplit.java</url>
           <line>13</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Test4TreeMap/test4TreeMap.java</url>
           <line>58</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java</url>
           <line>709</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java</url>
           <line>568</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/reflect/Constructor.java</url>
-          <line>422</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java</url>
           <line>738</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java</url>
           <line>728</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test4XMLJAVA/ReadCustomerDefineStressData.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>2237</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1309</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1319</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1313</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test4ExGet/Test.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test4ExGet/Test.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test4ExGet/Test.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1946</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/Thread.java</url>
+          <line>1970</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test4ExGet/Test.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1326</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1719</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>366</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>475</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test4NettyThread/Controller.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Test4convertUtils/convert.java</url>
@@ -674,12 +795,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class</url>
-          <line>33</line>
-          <properties class="sun.reflect.NativeConstructorAccessorImpl" method="newInstance0" />
-          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

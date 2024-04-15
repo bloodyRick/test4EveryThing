@@ -1,0 +1,7 @@
+
+G
+java:S1874
+",Remove this use of "Date"; it is deprecated.(× ºçıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ĞóÒúøÿÿÿÿ8» ºÉù0
+X	java:S125"<This block of commented-out lines of code should be removed.(á¨â±8úßºÉù0
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§ø

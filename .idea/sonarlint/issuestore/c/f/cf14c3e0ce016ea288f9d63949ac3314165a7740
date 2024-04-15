@@ -1,0 +1,23 @@
+
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(”Û“«şÿÿÿÿ
+n	java:S131E"YComplete cases by adding the missing enum constants or add a default case to this switch.(«Ğƒ
+V	java:S125K"<This block of commented-out lines of code should be removed.(Œ¿Î¹şÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFDateUtil'.(ßñ¸©
+b
+java:S1128"GRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFWorkbook'.(¾§—Œıÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+S
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û“«şÿÿÿÿ
+a
+java:S1301E"KReplace this "switch" statement by "if" statements to increase readability.(«Ğƒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óº¦úÿÿÿÿ
+e
+java:S2095!"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ø„›şÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(×è’ºÿÿÿÿÿ

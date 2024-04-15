@@ -1,0 +1,5 @@
+
+q	java:S116"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÀž“ýÿÿÿÿ8¿ßÂ˜Á0
+v
+java:S1210&"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ŠËþ§8ÀßÂ˜Á0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã‰ô³

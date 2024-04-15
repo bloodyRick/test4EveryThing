@@ -1,0 +1,30 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(„›åÇ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(á’Äˆşÿÿÿÿ
+P
+java:S1612I":Replace this lambda with method reference 'Entry::getKey'.(ğÒêê
+U
+java:S1612L":Replace this lambda with method reference 'Entry::getKey'.(ÔƒÉÔûÿÿÿÿ
+U
+java:S1612O":Replace this lambda with method reference 'Entry::getKey'.(á Ÿ¡úÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+\
+java:S1075["ARefactor your code to get this URI from a customizable parameter.(ãÜÌßıÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(é¡´ï8Šø÷Şà0
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¸³æ
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¿÷³
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¦¯Ó
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼´„–
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÅ¼
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óº¦úÿÿÿÿ
+e
+java:S2095$"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(âÑãöøÿÿÿÿ
+g
+java:S2095]"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(æÎ€¬
+g
+java:S2095!"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(¢ğÂè
+e
+java:S2095`"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ã§ üÿÿÿÿ

@@ -1,0 +1,15 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "result".(µú”Ì
+A
+java:S1481"+Remove this unused "result" local variable.(µú”Ì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+a
+java:S1128"KRemove this unused import 'org.apache.commons.math3.analysis.function.Max'.(¾ã±Ç
+f
+java:S1128"KRemove this unused import 'org.apache.commons.math3.analysis.function.Min'.(ÛŠ¸µûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öý÷Š

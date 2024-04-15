@@ -1,0 +1,16 @@
+
+]
+java:S1854"BRemove this useless assignment to local variable "interpolationX".(¢Ç¯õùÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "function".(êÔÇ¡þÿÿÿÿ
+?
+java:S1197"*Move the array designators [] to the type.(ÞÂÆ{
+@
+java:S1197"*Move the array designators [] to the type.(ê´Á´
+H
+java:S1481"-Remove this unused "function" local variable.(êÔÇ¡þÿÿÿÿ
+N
+java:S1481"3Remove this unused "interpolationX" local variable.(¢Ç¯õùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ââæ“
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—»ºî
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öý÷Š
