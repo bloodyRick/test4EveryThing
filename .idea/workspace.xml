@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="303f4121-c71e-4b0a-9e3b-70e320be00cc" name="Default Changelist" comment="" />
+    <list default="true" id="303f4121-c71e-4b0a-9e3b-70e320be00cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/JsonTe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/JsonTe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/PostCheckMafkaMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/PostCheckMafkaMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/RiskDefendResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/RiskDefendResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/testMafkaMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/testMafkaMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test4flatmap/test4AuditChainNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4flatmap/test4AuditChainNode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,45 +35,57 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bloodyRick&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bloodyRick/test4EveryThing.git&quot;,
+    &quot;accountId&quot;: &quot;aef18b8c-5ed0-4225-832e-ecc9036a9a79&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="/usr/local/ApacheMaven/respository" />
-        <option name="mavenHome" value="/usr/local/ApacheMaven" />
-        <option name="userSettingsFile" value="/usr/local/ApacheMaven/conf/settings.xml" />
+        <option name="localRepository" value="/usr/local/Cellar/maven/3.9.6/repository" />
+        <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.9.6/libexec/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1z2mZ2EoKWwBQDZt2Okxhjvcdml" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test4AddAll.executor": "Run",
+    "Application.test4ClassType.executor": "Run",
+    "Maven.Test4GuavaLearning [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -73,60 +98,19 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.StartApp">
-    <configuration name="ReadCustomerDefineStressData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test4XMLJAVA.ReadCustomerDefineStressData" />
-      <module name="Test4Chaos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test4XMLJAVA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Test4AddAll">
+    <configuration name="Test4AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4AddAll.Test4AddAll" />
+      <module name="Test4GuavaLearning" />
       <method v="2">
-        <option name="Make" enabled="true" />
+        <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test4ExGet.Test" />
-      <module name="Test4Chaos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test4ExGet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="Test4GuavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test4Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test4ExGet.Test4Set" />
-      <module name="Test4Chaos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test4ExGet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestInterface.isTrue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test4Chaos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplaceIfElseWithLamda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ReplaceIfElseWithLamda" />
-      <option name="MAIN_CLASS_NAME" value="ReplaceIfElseWithLamda.TestInterface" />
-      <option name="METHOD_NAME" value="isTrue1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
+        <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
     <configuration name="StartApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -137,22 +121,25 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReadCustomerDefineStressData" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test4Set" />
-      <item itemvalue="JUnit.TestInterface.isTrue1" />
+      <item itemvalue="Application.Test4AddAll" />
       <item itemvalue="Spring Boot.StartApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test4AddAll" />
         <item itemvalue="Spring Boot.StartApp" />
-        <item itemvalue="Application.Test4Set" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ReadCustomerDefineStressData" />
-        <item itemvalue="JUnit.TestInterface.isTrue1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
   </component>
@@ -317,103 +304,14 @@
       <workItem from="1707206704566" duration="68000" />
       <workItem from="1711131819313" duration="1062000" />
       <workItem from="1713192270584" duration="42000" />
+      <workItem from="1713193019629" duration="977000" />
+      <workItem from="1713194064677" duration="382000" />
+      <workItem from="1713194484848" duration="353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="722" y="-669" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1703061542548">
-      <screen x="-76" y="-1055" width="1920" height="1055" />
-    </state>
-    <state x="722" y="-669" key="#com.intellij.debugger.actions.ViewTextAction/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703061542548" />
-    <state x="867" y="-762" key="#xdebugger.evaluate" timestamp="1703061480686">
-      <screen x="-76" y="-1055" width="1920" height="1055" />
-    </state>
-    <state x="867" y="-762" key="#xdebugger.evaluate/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703061480686" />
-    <state x="675" y="259" key="#xdebugger.evaluate/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703052779124" />
-    <state width="1750" height="254" key="GridCell.Tab.0.bottom" timestamp="1711132938092">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.0.bottom/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938092" />
-    <state width="1878" height="256" key="GridCell.Tab.0.bottom/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
-    <state width="1750" height="383" key="GridCell.Tab.0.bottom/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767344" />
-    <state width="1750" height="254" key="GridCell.Tab.0.center" timestamp="1711132938091">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.0.center/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938091" />
-    <state width="1878" height="256" key="GridCell.Tab.0.center/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
-    <state width="1750" height="383" key="GridCell.Tab.0.center/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767344" />
-    <state width="1750" height="254" key="GridCell.Tab.0.left" timestamp="1711132938090">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.0.left/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938090" />
-    <state width="1878" height="256" key="GridCell.Tab.0.left/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
-    <state width="1750" height="383" key="GridCell.Tab.0.left/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767343" />
-    <state width="1750" height="254" key="GridCell.Tab.0.right" timestamp="1711132938092">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.0.right/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938092" />
-    <state width="1878" height="256" key="GridCell.Tab.0.right/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971845" />
-    <state width="1750" height="383" key="GridCell.Tab.0.right/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1707206767344" />
-    <state width="1750" height="254" key="GridCell.Tab.1.bottom" timestamp="1711132938093">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.1.bottom/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
-    <state width="1878" height="256" key="GridCell.Tab.1.bottom/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
-    <state width="1750" height="388" key="GridCell.Tab.1.bottom/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168133" />
-    <state width="1750" height="254" key="GridCell.Tab.1.center" timestamp="1711132938093">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.1.center/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
-    <state width="1878" height="256" key="GridCell.Tab.1.center/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
-    <state width="1750" height="388" key="GridCell.Tab.1.center/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168132" />
-    <state width="1750" height="254" key="GridCell.Tab.1.left" timestamp="1711132938093">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.1.left/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
-    <state width="1878" height="256" key="GridCell.Tab.1.left/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
-    <state width="1750" height="388" key="GridCell.Tab.1.left/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168131" />
-    <state width="1750" height="254" key="GridCell.Tab.1.right" timestamp="1711132938093">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.1.right/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938093" />
-    <state width="1878" height="256" key="GridCell.Tab.1.right/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703062971846" />
-    <state width="1750" height="388" key="GridCell.Tab.1.right/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054168132" />
-    <state width="1750" height="254" key="GridCell.Tab.2.bottom" timestamp="1711132938095">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.2.bottom/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938095" />
-    <state width="1750" height="254" key="GridCell.Tab.2.center" timestamp="1711132938094">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.2.center/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938094" />
-    <state width="1750" height="254" key="GridCell.Tab.2.left" timestamp="1711132938094">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.2.left/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938094" />
-    <state width="1750" height="254" key="GridCell.Tab.2.right" timestamp="1711132938094">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state width="1750" height="254" key="GridCell.Tab.2.right/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132938094" />
-    <state width="622" height="656" key="SwitcherDM" timestamp="1703074961394">
-      <screen x="-76" y="-1055" width="1920" height="1055" />
-    </state>
-    <state width="622" height="656" key="SwitcherDM/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703074961394" />
-    <state x="441" y="290" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1703054161402">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state x="441" y="290" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-76.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1703054161402" />
-    <state x="581" y="307" width="674" height="486" key="find.popup" timestamp="1711132855356">
-      <screen x="0" y="25" width="1792" height="1049" />
-    </state>
-    <state x="581" y="307" width="674" height="486" key="find.popup/-72.-1055.1920.1055/0.25.1792.1049@0.25.1792.1049" timestamp="1711132855356" />
-    <state x="547" y="-771" width="674" height="486" key="find.popup/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1706771056078" />
-    <state x="549" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1703075610716">
-      <screen x="-76" y="-1055" width="1920" height="1055" />
-    </state>
-    <state x="549" y="-821" width="670" height="676" key="search.everywhere.popup/-76.-1055.1920.1055/0.25.1792.1049@-76.-1055.1920.1055" timestamp="1703075610716" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -680,6 +578,15 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/test4ClassType/test4ClassType.java</url>
+          <line>6</line>
+          <properties class="test4ClassType.test4ClassType" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

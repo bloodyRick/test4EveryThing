@@ -8,13 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Test4Chaos" />
+        <module name="Test4GuavaLearning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Test4Chaos" options="-parameters" />
+      <module name="Test4GuavaLearning" options="-parameters" />
     </option>
   </component>
 </project>
