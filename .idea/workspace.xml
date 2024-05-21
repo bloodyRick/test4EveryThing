@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="303f4121-c71e-4b0a-9e3b-70e320be00cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfaceAndSubClassConvert/ConstrateClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfaceAndSubClassConvert/ConstrateClass11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfaceAndSubClassConvert/ConstrateClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfaceAndSubClassConvert/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfaceAndSubClassConvert/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterfaceAndSubClassConvert/abstractClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TrueTest/TrueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/JsonTe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/JsonTe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/PostCheckMafkaMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/PostCheckMafkaMsg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/RiskDefendResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/RiskDefendResp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/testMafkaMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/testMafkaMsg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4BeanUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test4flatmap/test4AuditChainNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4flatmap/test4AuditChainNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonTest/CreateGrayReleasePhysicReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonTest/CreateGrayReleasePhysicReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4AnnotationNotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test4NotEmpty/test4AnnotationNotEmpty.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +73,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Test4AddAll.executor": "Run",
+    "Application.TrueTest.executor": "Profiler#1",
+    "Application.test4AnnotationNotEmpty.executor": "Profiler#1",
     "Application.test4ClassType.executor": "Run",
+    "Application.testGet.executor": "Debug",
     "Maven.Test4GuavaLearning [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -82,7 +89,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,10 +105,29 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test4AddAll">
-    <configuration name="Test4AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test4AddAll.Test4AddAll" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceAndSubClassConvert.Main" />
       <module name="Test4GuavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceAndSubClassConvert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrueTest.TrueTest" />
+      <module name="Test4GuavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrueTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
@@ -109,7 +135,6 @@
     <configuration default="true" type="Application" factoryName="Application">
       <module name="Test4GuavaLearning" />
       <method v="2">
-        <option name="Make" enabled="true" />
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
@@ -121,12 +146,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test4AddAll" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TrueTest" />
       <item itemvalue="Spring Boot.StartApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test4AddAll" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TrueTest" />
         <item itemvalue="Spring Boot.StartApp" />
       </list>
     </recent_temporary>
@@ -307,6 +334,11 @@
       <workItem from="1713193019629" duration="977000" />
       <workItem from="1713194064677" duration="382000" />
       <workItem from="1713194484848" duration="353000" />
+      <workItem from="1713194955601" duration="220000" />
+      <workItem from="1713804165116" duration="80000" />
+      <workItem from="1713804259815" duration="77000" />
+      <workItem from="1713807002381" duration="3107000" />
+      <workItem from="1714841300278" duration="397000" />
     </task>
     <servers />
   </component>
@@ -590,6 +622,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test4GuavaLearning$xslx.ic" NAME="xslx Coverage Results" MODIFIED="1657609269297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
